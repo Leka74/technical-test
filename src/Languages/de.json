@@ -1,0 +1,57 @@
+{
+    "NAVBAR": {
+        "HOW_WORKS": "So funktioniert das",
+        "PACKAGES": "Pakete",
+        "APP": "App",
+        "CONTACT": "Kontakt",
+        "LOGIN": "Anmeldung",
+        "REGISTER": "Registrierenr"
+    },
+    "MAIN": {
+        "INTRO_FIRST": "Bewahrter Ablauf",
+        "INTRO_SECOND": "Sei clever, <strong>deine Immobilie verkaufen</strong><br/> kannst du selbst.",
+        "GALLERY_TEXT": "Dabei helfe ich dir"
+    },
+    "CARDS": {
+        "BUTTON": "Mehr dazu",
+        "LIST":[
+            {
+                "TITLE": "Unterlagen zum Erfolg",
+                "DESC": "Speichere Objektdaten zentral. Ein Angebotvergleich hilft zu optimeren um fur alle moglichen Fragen gewappnet zu sein. ..."
+            },
+            {
+                "TITLE": "Wert deiner Immobilie",
+                "DESC": "Wert und Preis sind zweierlei. Ermittie selbstandig den Marktwert deiner Immobilie und entwickle mit wirkungsvollen ..."
+            },
+            {
+                "TITLE": "Vermarkten wie ein Profi",
+                "DESC": "Rucke deine Immobilie ins richtige Licht. Finde den Kaufer, in dem du deine Immobilie mit schonen Fotos und einer aussagekraftigen ..."
+            },
+            {
+                "TITLE": "Vermarkten wie ein Profi",
+                "DESC": "Rucke deine Immobilie ins richtige Licht. Finde den Kaufer, in dem du deine Immobilie mit schonen Fotos und einer aussagekraftigen ..."
+            },
+            {
+                "TITLE": "Vermarkten wie ein Profi",
+                "DESC": "Rucke deine Immobilie ins richtige Licht. Finde den Kaufer, in dem du deine Immobilie mit schonen Fotos und einer aussagekraftigen ..."
+            }
+        ]
+    },
+    "GALLERY": {
+            "BUTTON": "Eckdaten zum Verfkaufer",
+            "LIST": [
+                {"TITLE": "Deine Ziele im Mittelpunkt"},
+                {"TITLE": "Die Unterlagen - wesentlich und aktuell"},
+                {"TITLE": "Zu keiner Zeit um eine Antwort verlegen."},
+                {"TITLE": "Gute Grunde fur deine Immobilie"},
+                {"TITLE": "An wen mochtest du verkaufen?"},
+                {"TITLE": "Werbung in eigner Sache."}
+            ]
+    },
+    "FOOTER": {
+        "DATA_PROTECTION": "Datenschutz",
+        "CONDITIONS": "Bedingungen",
+        "IMPRINT": "Impressum",
+        "COPYRIGHT": "Urheberrechte"
+    }
+}

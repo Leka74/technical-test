@@ -1,0 +1,84 @@
+.scrolling-wrapper .card {
+    display: inline-block;
+    border: 1px solid gainsboro;
+    border-radius: 8px;
+    width: 400px;
+    height: 600px;
+    margin-left: 20px;
+}
+
+.card-content {
+    display: grid;
+    grid-template-rows: auto auto auto auto auto;
+}
+
+.card:hover {
+    border: 1px solid grey;
+}
+
+/* Remove the margin from the first card only */
+.card:first-of-type {
+    margin-left: 0;
+}
+
+.card img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    /* margin-top: 60px; */
+    padding: 30px;
+    padding-top: 40px;
+}
+
+.card-title {
+    font-size: 22px;
+    color: #737373;
+    text-align: center;
+    /* margin-top: 10px; */
+    padding: 0 120px;
+
+    white-space: pre-wrap;      /* CSS3 */   
+    white-space: -moz-pre-wrap; /* Firefox */   
+    white-space: -o-pre-wrap;   /* Opera 7 */    
+    word-wrap: break-word;      /* IE */
+}
+.card-desc {
+    color: #c2c2c2;
+    font-size: 14px;
+    text-align: center;
+    /* margin-top: 25px; */
+    padding: 25px 25px;
+    white-space: pre-wrap;      /* CSS3 */   
+    white-space: -moz-pre-wrap; /* Firefox */   
+    white-space: -o-pre-wrap;   /* Opera 7 */    
+    word-wrap: break-word;      /* IE */
+}
+
+.card-video {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 25px;
+}
+
+.card-button {
+    text-align: center;
+}
+
+@media screen and (max-width: 800px) {
+    .scrolling-wrapper .card {
+        width: 100%;
+        height: 90%;
+    }
+
+    .card-title {
+        padding: 0 20px;
+    }
+
+    .card-video {
+        width: 80%;
+    }
+
+    .scrolling-wrapper .card-content {
+        grid-template-columns: repeat(1, minmax(100%, 1fr));
+    }
+  }

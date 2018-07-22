@@ -1,0 +1,25 @@
+.button {
+    display: inline-block;
+    padding: 10px 16px;
+    border-radius: 20px;
+    color: white;
+    /* Background gradient */
+    background: rgba(227,98,43,1);
+    background: -moz-linear-gradient(left, rgba(227,98,43,1) 0%, rgba(232,128,43,1) 100%);
+    background: -webkit-gradient(left top, right top, color-stop(0%, rgba(227,98,43,1)), color-stop(100%, rgba(232,128,43,1)));
+    background: -webkit-linear-gradient(left, rgba(227,98,43,1) 0%, rgba(232,128,43,1) 100%);
+    background: -o-linear-gradient(left, rgba(227,98,43,1) 0%, rgba(232,128,43,1) 100%);
+    background: -ms-linear-gradient(left, rgba(227,98,43,1) 0%, rgba(232,128,43,1) 100%);
+    background: linear-gradient(to right, rgba(227,98,43,1) 0%, rgba(232,128,43,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e3622b', endColorstr='#e8802b', GradientType=1 );
+    /* Make text unselectable */
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+}
+
+.button:hover {
+    cursor: pointer;
+}

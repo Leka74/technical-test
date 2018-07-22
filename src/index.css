@@ -1,0 +1,30 @@
+body {
+  /* margin: 0; */
+  /* padding: 0; */
+  margin: 50px 100px;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+@media screen and (max-width: 800px) {
+  body {
+      margin: 0;
+      padding: 0;
+  }
+}
+
+html *::selection {
+  background: rgba(232,128,43,1);
+}
+
+html *::-moz-selection {
+  background: rgba(232,128,43,1);
+}
+
+a {
+  color: white;
+  text-decoration: transparent;
+}
+
+a:hover {
+  font-weight: bold;
+}

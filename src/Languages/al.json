@@ -1,0 +1,57 @@
+{
+    "NAVBAR": {
+        "HOW_WORKS": "Kështu funksionon",
+        "PACKAGES": "Paketa",
+        "APP": "Aplikacioni",
+        "CONTACT": "Kontakti",
+        "LOGIN": "Kyqu",
+        "REGISTER": "Regjistrohu"
+    },
+    "MAIN": {
+        "INTRO_FIRST": "Proces i ruajtur",
+        "INTRO_SECOND": "Jini të zgjuar, <strong> shitni pronën tuaj </strong> <br/> ju mund ta bëni vetë.",
+        "GALLERY_TEXT": "Unë të ndihmoj me këtë"
+    },
+    "CARDS": {
+        "BUTTON": "Më shumë për këtë",
+        "LIST":[
+            {
+                "TITLE": "Dokumentet për sukses",
+                "DESC": "Ruani të dhënat e objektit në mënyrë qendrore. Krahasimi i ofertave ndihmon të optimizohen për t'u përgatitur për të gjitha pyetjet e mundshme. ..."
+            },
+            {
+                "TITLE": "Vlera e pronës suaj",
+                "DESC": "Vlera dhe çmimi janë dy gjëra. Përcaktoni në mënyrë të pavarur vlerën e tregut të pronës suaj dhe zhvilloni me efektiv ..."
+            },
+            {
+                "TITLE": "Marketingu si pro",
+                "DESC": "Vendosni pronën tuaj në dritën e duhur. Gjeni blerësin, në të cilin ju pronën tuaj me foto të bukura dhe një kuptimplotë ..."
+            },
+            {
+                "TITLE": "Marketingu si pro",
+                "DESC": "Vendosni pronën tuaj në dritën e duhur. Gjeni blerësin, në të cilin ju pronën tuaj me foto të bukura dhe një kuptimplotë ..."
+            },
+            {
+                "TITLE": "Marketingu si pro",
+                "DESC": "Vendosni pronën tuaj në dritën e duhur. Gjeni blerësin, në të cilin ju pronën tuaj me foto të bukura dhe një kuptimplotë ..."
+            }
+        ]
+    },
+    "GALLERY": {
+            "BUTTON": "Të dhëna kryesore për shitësin",
+            "LIST": [
+                {"TITLE": "Përqendrohuni në qëllimet tuaja"},
+                {"TITLE": "Dokumentet - thelbësore dhe e përditësuar"},
+                {"TITLE": "Në asnjë kohë të zënë ngushtë për një përgjigje."},
+                {"TITLE": "Arsyet e mira për pronën tuaj"},
+                {"TITLE": "Kush do të donit t'i shisni?"},
+                {"TITLE": "Reklamim në gjënë e vet."}
+            ]
+    },
+    "FOOTER": {
+        "DATA_PROTECTION": "Mbrojtja e të dhënave",
+        "CONDITIONS": "Kushtet",
+        "IMPRINT": "Ngulitja",
+        "COPYRIGHT": "E drejta e autorit"
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "NAVBAR": {
+        "HOW_WORKS": "That's how it works",
+        "PACKAGES": "Packages",
+        "APP": "App",
+        "CONTACT": "Contact",
+        "LOGIN": "Login",
+        "REGISTER": "Register"
+    },
+    "MAIN": {
+        "INTRO_FIRST": "Preserved process",
+        "INTRO_SECOND": "Be clever, <strong> sell your property </strong> <br/> you can do it yourself.",
+        "GALLERY_TEXT": "I will help you with that"
+    },
+    "CARDS": {
+        "BUTTON": "More on this",
+        "LIST":[
+            {
+                "TITLE": "Documents to success",
+                "DESC": "Store object data centrally. An offer comparison helps to optimize in order to be prepared for all possible questions. ..."
+            },
+            {
+                "TITLE": "Value of your property",
+                "DESC": "Value and price are two things. Determine independently the market value of your property and develop with effective ..."
+            },
+            {
+                "TITLE": "Marketing like a pro",
+                "DESC": "Put your property in the right light. Find the buyer, in which you your property with beautiful photos and a meaningful ..."
+            },
+            {
+                "TITLE": "Marketing like a pro",
+                "DESC": "Put your property in the right light. Find the buyer, in which you your property with beautiful photos and a meaningful ..."
+            },
+            {
+                "TITLE": "Marketing like a pro",
+                "DESC": "Put your property in the right light. Find the buyer, in which you your property with beautiful photos and a meaningful ..."
+            }
+        ]
+    },
+    "GALLERY": {
+            "BUTTON": "Key data on the seller",
+            "LIST": [
+                {"TITLE": "Focus on your goals"},
+                {"TITLE": "The documents - essential and up to date"},
+                {"TITLE": "At no time embarrassed for an answer"},
+                {"TITLE": "Good reasons for your property"},
+                {"TITLE": "Who would you like to sell to?"},
+                {"TITLE": "In-house advertising"}
+            ]
+    },
+    "FOOTER": {
+        "DATA_PROTECTION": "Data protection",
+        "CONDITIONS": "Conditions",
+        "IMPRINT": "Imprint",
+        "COPYRIGHT": "Copyright"
+    }
+}
