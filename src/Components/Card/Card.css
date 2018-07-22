@@ -14,6 +14,7 @@
 
 .card:hover {
     border: 1px solid grey;
+    border-radius: 0;
 }
 
 /* Remove the margin from the first card only */
